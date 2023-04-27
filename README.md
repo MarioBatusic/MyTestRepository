@@ -1,4 +1,3 @@
-
 # MyTestRepository
 Only a Test.
 
@@ -6,3 +5,6 @@ Only a Test.
 ***Thanks*** in advance.
   
 ** This is an additional content in the file. **
+
+## Another test from Visual Studio Code
+More bla bla
