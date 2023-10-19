@@ -5,7 +5,7 @@ Only a Test.
 ***Thanks*** in advance.
 
 ##An Additional Content
-Some texts here.
+These texts here.
 
  Next paragraph.
 
@@ -17,3 +17,7 @@ More bla bla
 More bla bla
 
 more bla bla  
+
+###Something new
+
+Here some changes. 
